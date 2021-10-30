@@ -1,12 +1,12 @@
 <h1 align="center">Hi I'm Momen 👋</h1>
  <p align="center">
-   <a href="https://www.facebook.com/momen.essa594"><img src="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515400_10885.png" width=150/></a>
+   <a href="https://www.facebook.com/momen.essa594"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
  
    <a href="https://www.linkedin.com/in/momenaboessa"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"></a>
 
-   <a href="https://www.youtube.com/momenaboessa"><img src="https://www.ottawapolice.ca/en/crime/resources/Wanted-2019/flat1000x1000075f.u7.jpg" width=150/></a>
+   <a href="https://www.youtube.com/momenaboessa"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   
-   <a href="https://www.instagram.com/momenaboessa1"><img src="https://www.pngitem.com/pimgs/m/184-1847294_ai-instagram-hd-png-download.png" width=150/></a>
+   <a href="https://www.instagram.com/momenaboessa1"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
  </p>
 
 
