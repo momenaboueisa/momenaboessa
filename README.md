@@ -9,5 +9,5 @@
 
 I'm a software developer who is passionate about creating technology to elevate people, I enjoy working with C#, ASP.NET, Microsoft SQL Server, Entity Framework, HTML, CSS and JavaScript.
 
--   💬 Ask me about: .NET(C#), MSSQL, Python, Django, Clean Code.
+-   💬 Ask me about: C#, ASP.NET, Entity Framework, LINQ, MSSQL, Python, Django, Clean Code.
 -   📫 How to reach me: momenessa594@gmail.com
