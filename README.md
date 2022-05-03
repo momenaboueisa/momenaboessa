@@ -7,7 +7,7 @@
  </p>
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
 
-I'm a software developer who is passionate about creating technology to elevate people, I enjoy working with C#, ASP.NET, Microsoft SQL Server, Entity Framework, HTML, CSS and JavaScript.
+I'm a software developer who is passionate about building everything from small business sites to rich interactive web apps.
 
 -   💬 Ask me about: C#, ASP.NET, Entity Framework, LINQ, MSSQL, Python, Django, Clean Code.
 -   📫 How to reach me: momenessa594@gmail.com
