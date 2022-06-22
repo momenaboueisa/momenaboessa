@@ -10,5 +10,5 @@
 
 I'm a software developer who is passionate about building everything from small business sites to rich interactive web apps.
 
--   💬 Ask me about: C#, ASP.NET, Entity Framework, LINQ, MSSQL, Python, Django, Clean Code.
+-   💬 Ask me about: C#, ASP.NET, Entity Framework, LINQ, MSSQL, Kendo-Telerik, Blazor, Clean Code.
 -   📫 How to reach me: momenessa594@gmail.com
