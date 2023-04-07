@@ -19,7 +19,7 @@ Passionate about software development.<br/>
     <a href="https://www.twitter.com/momenaboessa"><img class="socialImg" src="https://img.shields.io/badge/twitter-%230177B5?style=flat&logo=twitter&logoColor=white"/></a>
  </p>
 <style>
- .socialImg{
+ a img{
  height: 25px;
  width: 100px;
  }
