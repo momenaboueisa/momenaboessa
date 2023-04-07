@@ -1,12 +1,8 @@
 <h1 align="left">👨🏻‍💻 Momen Aboessa</h1>
  
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
-
-I'm an Egyptian full-stack developer and content creator building Websites that helps with solving real-life problems with code.<br/>
-Have good problem-solving skills.<br/>
-Have experience in asp .net technology.<br/>
-Focus on the detail, I see things differently, and Interested in working on ambitious projects with positive people.<br/>
-Passionate about software development.<br/>
+I'm an Egyptian full-stack developer and content creator building Websites that help with solving real-life problems with code
+, have good problem-solving skills, Have experience in asp .net technology, Focus on the details, I see things differently, am Interested in working on ambitious projects with positive people, Passionate about software development and creating content that helps people and give them value.<br/>
 
 -   📫 How to reach me: momenessa594@gmail.com
 
