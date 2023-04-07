@@ -16,6 +16,7 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <hr/>
 <h3 align="left">🤖 Skills and Tools</h3>
 <img align="left" alt="c-sharp" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="max-width: 100%;">
+<img align="left" alt="asp-net-core" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="sql-server" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="max-width: 100%;">
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
