@@ -15,3 +15,4 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
  </p>
 <hr/>
 <h3 align="left">🤖 Skills and Tools</h3>
+<img align="left" alt="JavaScript" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="max-width: 100%;">
