@@ -2,13 +2,12 @@
  
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
 
--   I am a Software Engineer(.NET) With Two Years Of Experience Building Real-world Websites.<br/>
+I'm an Egyptian full-stack developer and content creator building Websites that helps with solving real-life problems with code.<br/>
 Have good problem-solving skills.<br/>
 Have experience in asp .net technology.<br/>
 Focus on the detail, I see things differently, and Interested in working on ambitious projects with positive people.<br/>
 Passionate about software development.<br/>
 
--   💬 Ask me about: C#, ASP.NET (MVC | Core), Entity Framework, LINQ, MSSQL, Kendo-Telerik, Blazor, Clean Code.
 -   📫 How to reach me: momenessa594@gmail.com
 
 <p align="center">
