@@ -32,7 +32,8 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="django" width="30px" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default" style="max-width: 100%;">
 <br/><h1 dir="auto"></h1>
 <h3 align="left">📹 YouTube Videos</h3>
- 
+<p> <a href="https://www.youtube.com/watch?v=o07kRSvz7yM" rel="nofollow"><img src="https://camo.githubusercontent.com/151a9ce286e9224037ef85655373d2c11fbc445ff1f9bc88350b55f85b6fe4e1/68747470733a2f2f797463617264732e64656d6f6c61622e636f6d2f3f69643d6f30376b5253767a37794d267469746c653d5468652b556e746f6c642b53746f72792b6f662b4f70656e41492b2d2b4d6963726f736f6674253237732b54616b656f766572266c616e673d656e2674696d657374616d703d31363830363133323336266261636b67726f756e645f636f6c6f723d253233306431313137267469746c655f636f6c6f723d2532336666666666662673746174735f636f6c6f723d2532336465646564652677696474683d323530266475726174696f6e3d31313736" alt="The Untold Story of OpenAI - Microsoft's Takeover" title="The Untold Story of OpenAI - Microsoft's Takeover" data-canonical-src="https://ytcards.demolab.com/?id=o07kRSvz7yM&amp;title=The+Untold+Story+of+OpenAI+-+Microsoft%27s+Takeover&amp;lang=en&amp;timestamp=1680613236&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;width=250&amp;duration=1176" style="max-width: 100%;"></a>
+ </p>
  
  
  
