@@ -1,11 +1,8 @@
 <h1 align="left">👨🏻‍💻 Momen Aboessa</h1>
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=white&vCenter=true&pause=1000&size=26" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=white&vCenter=true&pause=1000&size=26" /></a>
 </p>
-
- <strong><code style="background:gray;">Full-Stack Web Developer</code></strong>
+ <strong><code style="background:gray;">Full-Stack Web Developer</code></strong><br/>
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
 I'm an Egyptian full-stack developer and content creator building Websites that help with solving real-life problems with code
 , have good problem-solving skills, Have experience in asp .net technology, Focus on the details, I see things differently, am Interested in working on ambitious projects with positive people, Passionate about software development and creating content that helps people and give them value.<br/> you can visit my youtube channel where i publish my content "<a href='https://www.youtube.com/@codecraftacademy'>CodeCraft Academy<a/>".<br/>
