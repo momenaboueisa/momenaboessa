@@ -12,9 +12,9 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <p align="left">
    <a href="https://www.facebook.com/momen.essa594"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Facebook-025a93?style=for-the-badge&logoColor=white&logo=facebook"/></a>
    <a href="https://www.linkedin.com/in/momenaboessa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"></a>
-   <a href="https://www.youtube.com/@codecraftacademy"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-   <a href="https://www.instagram.com/momenaboessa1"><img style="height: 25px; width: 100px;" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.twitter.com/codecraftacadmy"><img style="height: 25px; width: 100px;" src="https://img.shields.io/badge/twitter-%230177B5?style=flat&logo=twitter&logoColor=white"/></a>
+   <a href="https://www.youtube.com/@codecraftacademy"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>
+   <a href="https://www.instagram.com/momenaboessa1"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff059a?style=for-the-badge&logoColor=white&logo=instagram"/></a>
+    <a href="https://www.twitter.com/codecraftacadmy"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
  </p>
  
 <hr/>
