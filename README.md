@@ -36,8 +36,8 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="entity-framework" width="30px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" style="max-width: 100%;">
 <img align="left" alt="blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" style="max-width: 100%;">
 <img align="left" alt="sql-server" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="max-width: 100%;">
-<img class="icon-left" width="30px" style="max-width: 100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://camo.githubusercontent.com/5a2964af16547c641a38a1c3b361b07a6aa212fd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67">
-<img class="icon-left" width="30px" alt="Visual Studio" style="max-width: 100%;" title="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
+<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://camo.githubusercontent.com/5a2964af16547c641a38a1c3b361b07a6aa212fd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67">
+<img align="left" width="30px" alt="Visual Studio" style="max-width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" style="max-width: 100%;">
