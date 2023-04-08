@@ -47,7 +47,7 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
 <img align="left" alt="Jquery" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" style="max-width: 100%;">
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
-<img align="left" alt="django" width="30px" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default" style="max-width: 100%;">
+
 <br/><h1 dir="auto"></h1>
 <h3 align="left">📹 YouTube Videos</h3>
 <p> <a href="https://www.youtube.com/watch?v=P65Losa0iUs&t=19s" rel="nofollow"><img src="" alt="Why C Sharp | ليه تتعلم سي شارب" title="Why C Sharp | ليه تتعلم سي شارب" data-canonical-src="https://ytcards.demolab.com/?id=o07kRSvz7yM&amp;title=The+Untold+Story+of+OpenAI+-+Microsoft%27s+Takeover&amp;lang=en&amp;timestamp=1680613236&amp;background_color=%230d1117&amp;title_color=%23ffffff&amp;stats_color=%23dedede&amp;width=250&amp;duration=1176" style="max-width: 100%;"></a>
