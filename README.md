@@ -39,8 +39,7 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <h3 align="left">📹 YouTube Videos</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Why C Sharp | ليه تتعلم سي شارب](https://ytcards.demolab.com/?id=P65Losa0iUs&title=Why+C+Sharp+%7C+%D9%84%D9%8A%D9%87+%D8%AA%D8%AA%D8%B9%D9%84%D9%85+%D8%B3%D9%8A+%D8%B4%D8%A7%D8%B1%D8%A8&lang=en&timestamp=1671304585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Why C Sharp | ليه تتعلم سي شارب")](https://www.youtube.com/watch?v=P65Losa0iUs)
-[![يعني ايه لغات برمجة | what is a programming Language](https://ytcards.demolab.com/?id=WKbwXtvWpP0&title=%D9%8A%D8%B9%D9%86%D9%8A+%D8%A7%D9%8A%D9%87+%D9%84%D8%BA%D8%A7%D8%AA+%D8%A8%D8%B1%D9%85%D8%AC%D8%A9+%7C+what+is+a+programming+Language&lang=en&timestamp=1669369953&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "يعني ايه لغات برمجة | what is a programming Language")](https://www.youtube.com/watch?v=WKbwXtvWpP0)
+
 <!-- END YOUTUBE-CARDS -->
  
  
