@@ -36,10 +36,6 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
 <img align="left" alt="django" width="30px" src="https://camo.githubusercontent.com/1cbef7934a586e1edf7190f4b6b0a43c2e39f3021b41cbddc7b4bb0f62f99367/68747470733a2f2f626174697374656f2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f626174697374656f2f7673636f64652d646a616e676f2f312e31302e302f313634353532353738353539352f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" data-canonical-src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default" style="max-width: 100%;">
 <br/><h1 dir="auto"></h1>
-<h3 align="left">📹 YouTube Videos</h3>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
  
  
