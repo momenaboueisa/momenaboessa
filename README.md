@@ -5,16 +5,16 @@
  <strong><code style="background:gray;">Full-Stack Web Developer</code></strong><br/>
 <img src="https://github.com/momenaboessa/momenaboessa/blob/main/2-min-min.png" align="right" width=25% />
 I'm an Egyptian full-stack developer and content creator building Websites that help with solving real-life problems with code
-, have good problem-solving skills, Have experience in asp .net technology, Focus on the details, I see things differently, am Interested in working on ambitious projects with positive people, Passionate about software development and creating content that helps people and give them value.<br/> you can visit my youtube channel where i publish my content "<a href='https://www.youtube.com/@codecraftacademy'>CodeCraft Academy<a/>".<br/>
+, have good problem-solving skills, Have experience in asp .net technology, Focus on the details, I see things differently, am Interested in working on ambitious projects with positive people, Passionate about software development and creating content that helps people and give them value.<br/> you can visit my youtube channel where i publish my content "<a href='https://www.youtube.com/@momenaboessa'>Momen Aboessa Academy<a/>".<br/>
 
 📫 How to reach me: momenessa594@gmail.com
 
 <p align="left">
    <a href="https://www.facebook.com/momen.essa594"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Facebook-025a93?style=for-the-badge&logoColor=white&logo=facebook"/></a>
- <a href="https://www.youtube.com/@codecraftacademy"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>  
+ <a href="https://www.youtube.com/@momenaboessa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/Subcribe-d61212?style=for-the-badge&logo=video&logoColor=white"/></a>  
  <a href="https://www.linkedin.com/in/momenaboessa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"></a>
    <a href="https://www.instagram.com/momenaboessa1"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Instagram-ff059a?style=for-the-badge&logoColor=white&logo=instagram"/></a>
-    <a href="https://www.twitter.com/codecraftacadmy"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
+    <a href="https://www.twitter.com/momenaboessa"><img style="height: 25px; width: 100px;" src="https://custom-icon-badges.demolab.com/badge/-Twitter-00bdff?style=for-the-badge&logoColor=white&logo=twitter"/></a>
  </p>
  
 <hr/>
