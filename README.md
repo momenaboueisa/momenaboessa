@@ -23,7 +23,7 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="asp-net-core" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" style="max-width: 100%;">
 <img align="left" alt="blazor" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/800px-Blazor.png" style="max-width: 100%;">
 <img align="left" alt="sql-server" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="max-width: 100%;">
-<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://camo.githubusercontent.com/5a2964af16547c641a38a1c3b361b07a6aa212fd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67">
+<img align="left" width="30px" style="max-width:100%;" alt="Visual Studio Code" title="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" width="30px" alt="Visual Studio" style="max-width:100%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;">
@@ -34,7 +34,7 @@ I'm an Egyptian full-stack developer and content creator building Websites that 
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
 <img align="left" alt="Jquery" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" style="max-width: 100%;">
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
-<img align="left" alt="django" width="30px" src="https://camo.githubusercontent.com/1cbef7934a586e1edf7190f4b6b0a43c2e39f3021b41cbddc7b4bb0f62f99367/68747470733a2f2f626174697374656f2e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f626174697374656f2f7673636f64652d646a616e676f2f312e31302e302f313634353532353738353539352f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" data-canonical-src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default" style="max-width: 100%;">
+<img align="left" alt="django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" style="max-width: 100%;">
 <br/><h1 dir="auto"></h1>
 
  
